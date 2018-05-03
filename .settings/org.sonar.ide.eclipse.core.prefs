@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.jdbc.username\=sonar\r\nsonar.jdbc.driver\=com.mysql.jdbc.Driver\r\nsonar.host.url\=http\://sjc1predix05.research.ge.com\:9000/\r\nsonar.jdbc.password\=sonar\r\nsonar.jdbc.url\=jdbc\:mysql\://3.39.73.57\:3323/sonarqube
+projectKey=Springboot\:ganesh
+serverUrl=http\://localhost\:9000
+version=2
